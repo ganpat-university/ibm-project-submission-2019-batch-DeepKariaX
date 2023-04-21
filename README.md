@@ -56,20 +56,12 @@ Make sure that you have the following:
     python app.py
     ```
 
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-<!-- [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/deep-karia-2436b2194/ -->
 
 [contri-shield]: https://img.shields.io/github/contributors/ganpat-university/ibm-project-submission-2019-batch-DeepKariaX?style=for-the-badge
 [contri-url]: #
 
-[license-shield]: https://img.shields.io/github/license/ganpat-university/ibm-project-submission-2019-batch-DeepKariaX?style=for-the-badge
-[license-url]: https://github.com/ganpat-university/ibm-project-submission-2019-batch-DeepKariaX/blob/main/LICENSE.txt
 
 [size-shield]: https://img.shields.io/github/repo-size/ganpat-university/ibm-project-submission-2019-batch-DeepKariaX?style=for-the-badge
 [size-url]: #

@@ -44,7 +44,7 @@ Make sure that you have the following:
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/DeepKariaX/Spam-Classification-Flask
+   git clone https://github.com/ganpat-university/ibm-project-submission-2019-batch-DeepKariaX
    ```
 2. Install Python packages
 
@@ -65,19 +65,19 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/deep-karia-2436b2194/ -->
 
-[contri-shield]: https://img.shields.io/github/contributors/DeepKariaX/Network-Scanner-Flask?style=for-the-badge
+[contri-shield]: https://img.shields.io/github/contributors/ganpat-university/ibm-project-submission-2019-batch-DeepKariaX?style=for-the-badge
 [contri-url]: #
 
-[license-shield]: https://img.shields.io/github/license/DeepKariaX/Network-Scanner-Flask?style=for-the-badge
-[license-url]: https://github.com/DeepKariaX/Network-Scanner-Flask/blob/main/LICENSE.txt
+[license-shield]: https://img.shields.io/github/license/ganpat-university/ibm-project-submission-2019-batch-DeepKariaX?style=for-the-badge
+[license-url]: https://github.com/ganpat-university/ibm-project-submission-2019-batch-DeepKariaX/blob/main/LICENSE.txt
 
-[size-shield]: https://img.shields.io/github/repo-size/DeepKariaX/Network-Scanner-Flask?style=for-the-badge
+[size-shield]: https://img.shields.io/github/repo-size/ganpat-university/ibm-project-submission-2019-batch-DeepKariaX?style=for-the-badge
 [size-url]: #
 
-[issues-shield]: https://img.shields.io/github/issues/DeepKariaX/Network-Scanner-Flask?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/ganpat-university/ibm-project-submission-2019-batch-DeepKariaX?style=for-the-badge
 [issues-url]: #
 
-[language-shield]: https://img.shields.io/github/languages/count/DeepKariaX/Network-Scanner-Flask?style=for-the-badge
+[language-shield]: https://img.shields.io/github/languages/count/ganpat-university/ibm-project-submission-2019-batch-DeepKariaX?style=for-the-badge
 [language-url]: #
 
-[product-screenshot]: Media/Network_Scanner_Home.PNG
+[product-screenshot]: Media/Home.PNG

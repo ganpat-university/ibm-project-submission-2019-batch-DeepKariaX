@@ -36,7 +36,7 @@ Our crime prediction project utilizes machine learning algorithms to analyze and
 ### Prerequisites
 
 Make sure that you have the following:
--  Python 3+ and pip (which comes with Python 3+)
+-  Python 3.10 or higher and pip (which comes with Python 3+)
 -  flask
 -  An environment to work in - something like Jupyter or Spyder
 
@@ -51,9 +51,9 @@ Make sure that you have the following:
    ```sh
     pip install -r requirements.txt
     ```
-3. Run Spam_Classifier_Main File
+3. Run App File
    ```sh
-    python Spam_Classifier_Main.py
+    python app.py
     ```
 
 ## License
@@ -80,4 +80,4 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 [language-shield]: https://img.shields.io/github/languages/count/ganpat-university/ibm-project-submission-2019-batch-DeepKariaX?style=for-the-badge
 [language-url]: #
 
-[product-screenshot]: Media/Home.PNG
+[product-screenshot]: Media/Home.png

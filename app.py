@@ -154,4 +154,4 @@ def search():
 		return redirect(url_for('maps'))
 
 
-app.run(debug=True)
+app.run()
